@@ -1,0 +1,27 @@
+Bilorplate :
+
+  public class Class_name{
+   
+   public static void main( String arg[]){
+    
+    System.out.println("This only used to print")
+   }
+
+  }
+
+1. public class Class_name:
+
+* This defines a class named Hello.
+* In Java, everything must be inside a class.
+* public means the class can be accessed from anywhere.
+Note: file name should be Class_name.java
+
+2. public static void main(String[] args):
+
+* This is the entry point of every Java program.
+* Public : Anyone can call this method.
+* static : You can run this method without creating an object of the class. (JVM needs to call this method directly)
+* void : The method does not return anything.
+* main : This is the method name JVM looks for automatically.
+* (String[] args) : This is an array of strings. It is used for command-line arguments. Even if you don’t use it, it must be there.
+
