@@ -20,7 +20,5 @@ public class Variables{
       //4. Boolean
       boolean bl= true; // range: 1 byte 
       boolean fl= true;
-
-
     }
 }
